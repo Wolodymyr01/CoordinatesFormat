@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\bin\Debug\netcoreapp2.1\CoordinatesFormat.deps.json
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\bin\Debug\netcoreapp2.1\CoordinatesFormat.runtimeconfig.json
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\bin\Debug\netcoreapp2.1\CoordinatesFormat.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\bin\Debug\netcoreapp2.1\CoordinatesFormat.dll
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\bin\Debug\netcoreapp2.1\CoordinatesFormat.pdb
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\obj\Debug\netcoreapp2.1\CoordinatesFormat.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\obj\Debug\netcoreapp2.1\CoordinatesFormat.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\obj\Debug\netcoreapp2.1\CoordinatesFormat.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\obj\Debug\netcoreapp2.1\CoordinatesFormat.AssemblyInfo.cs
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\obj\Debug\netcoreapp2.1\CoordinatesFormat.dll
+C:\Users\PC\source\repos\CoordinatesFormat\CoordinatesFormat\obj\Debug\netcoreapp2.1\CoordinatesFormat.pdb
